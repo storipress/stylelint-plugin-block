@@ -4,3 +4,4 @@
 .eslintrc.js
 .gitattributes
 jest.config.js
+*.spec.js
