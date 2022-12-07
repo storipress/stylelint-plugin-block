@@ -22,7 +22,7 @@
     "jest-preset-stylelint": "6.0.0",
     "postcss-html": "1.5.0",
     "postcss-syntax": "0.36.2",
-    "prettier": "2.8.0",
+    "prettier": "2.8.1",
     "stylelint": "14.1.0"
   },
   "scripts": {
