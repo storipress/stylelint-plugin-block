@@ -8,7 +8,7 @@
     "url": "https://github.com/storipress/stylelint-plugin-block.git"
   },
   "peerDependencies": {
-    "stylelint": "^13 || ^14.0.0"
+    "stylelint": "^13 || ^14.0.0 || ^15.0.0"
   },
   "devDependencies": {
     "eslint": "8.44.0",
@@ -23,7 +23,7 @@
     "postcss-html": "1.5.0",
     "postcss-syntax": "0.36.2",
     "prettier": "3.0.0",
-    "stylelint": "14.16.1"
+    "stylelint": "15.10.1"
   },
   "scripts": {
     "test": "jest"
