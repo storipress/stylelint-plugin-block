@@ -883,7 +883,7 @@ __metadata:
     eslint-plugin-prettier: 5.0.0
     eslint-plugin-promise: 6.1.1
     jest: 29.6.1
-    jest-preset-stylelint: 6.1.0
+    jest-preset-stylelint: 6.1.1
     postcss-html: 1.5.0
     postcss-syntax: 0.36.2
     prettier: 3.0.0
@@ -3623,12 +3623,12 @@ fsevents@^2.3.2:
   languageName: node
   linkType: hard
 
-"jest-preset-stylelint@npm:6.1.0":
-  version: 6.1.0
-  resolution: "jest-preset-stylelint@npm:6.1.0"
+"jest-preset-stylelint@npm:6.1.1":
+  version: 6.1.1
+  resolution: "jest-preset-stylelint@npm:6.1.1"
   peerDependencies:
     jest: ^29.0.2
-  checksum: 43d6d28b48dcf87ac4001afa8babe7be776da964ec12f635d0aac470097c647fedce07d907299ada0b8a3bfb2236ed25320574f92e75d273a3074802d07977b2
+  checksum: b23c1831b32af77746416237017e37b021700509e3b49343c1ac79ab6a39411ca66c8056c686c14edb715f3abd55c590cd63fd07e0b84996682bbff3e6c7089c
   languageName: node
   linkType: hard
 
