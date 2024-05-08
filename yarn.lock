@@ -884,7 +884,7 @@ __metadata:
     eslint-plugin-promise: 6.1.1
     jest: 29.7.0
     jest-preset-stylelint: 6.3.2
-    postcss-html: 1.6.0
+    postcss-html: 1.7.0
     postcss-syntax: 0.36.2
     prettier: 3.2.5
     stylelint: 14.16.1
@@ -3942,10 +3942,10 @@ fsevents@^2.3.2:
   languageName: node
   linkType: hard
 
-"js-tokens@npm:^8.0.0":
-  version: 8.0.0
-  resolution: "js-tokens@npm:8.0.0"
-  checksum: 7a069cf43d93bd5f0e047f975fcc7fcdf6176378d2ebff45020ed4360e031d013f5ed55e0a26cf9694537af9bb04f06aa6c200077f26bf7cb0f59102b46d0e56
+"js-tokens@npm:^9.0.0":
+  version: 9.0.0
+  resolution: "js-tokens@npm:9.0.0"
+  checksum: 427d0db681caab0c906cfc78a0235bbe7b41712cee83f3f14785c1de079a1b1a85693cc8f99a3f71685d0d76acaa5b9c8920850b67f93d3eeb7ef186987d186c
   languageName: node
   linkType: hard
 
@@ -4756,15 +4756,15 @@ fsevents@^2.3.2:
   languageName: node
   linkType: hard
 
-"postcss-html@npm:1.6.0":
-  version: 1.6.0
-  resolution: "postcss-html@npm:1.6.0"
+"postcss-html@npm:1.7.0":
+  version: 1.7.0
+  resolution: "postcss-html@npm:1.7.0"
   dependencies:
     htmlparser2: ^8.0.0
-    js-tokens: ^8.0.0
+    js-tokens: ^9.0.0
     postcss: ^8.4.0
     postcss-safe-parser: ^6.0.0
-  checksum: 4ce8058c7a88fabbf0133e85afae4a093e603590f94fa89374142f56f2f71b1f849945923ec0f6b97367ede2c94fcdb1437ccf852ed131818459293141320314
+  checksum: 6621cbb17433fdb65cd862b6737d08de209f911710c1f8507a62df76f1975c7632674f98e040cab209f248327de1e2c553b1946c60210693c76fc78ccb7bd0ee
   languageName: node
   linkType: hard
 
