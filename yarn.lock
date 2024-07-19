@@ -874,7 +874,7 @@ __metadata:
     eslint-plugin-import: 2.29.1
     eslint-plugin-node: 11.1.0
     eslint-plugin-prettier: 5.2.1
-    eslint-plugin-promise: 6.4.0
+    eslint-plugin-promise: 6.5.0
     jest: 29.7.0
     jest-preset-stylelint: 6.3.2
     postcss-html: 1.7.0
@@ -2220,12 +2220,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-plugin-promise@npm:6.4.0":
-  version: 6.4.0
-  resolution: "eslint-plugin-promise@npm:6.4.0"
+"eslint-plugin-promise@npm:6.5.0":
+  version: 6.5.0
+  resolution: "eslint-plugin-promise@npm:6.5.0"
   peerDependencies:
     eslint: ^7.0.0 || ^8.0.0 || ^9.0.0
-  checksum: cf22ee739aa58a79b7ab8c8be7604dd64f96dee353346556cf04168fcd4f28657bc23ef02e1264a35ffe43bc00ff171c90d720ce9800c68a496d13687d6c02d7
+  checksum: e6aa39842cc590a8874232faf22be3387b8e90d9349361c5b5a2e41b5fa9f0d2db1000eff187195b1626e1b98d07ed2841bf45bf7eb4d9db353714b79532d94f
   languageName: node
   linkType: hard
 
